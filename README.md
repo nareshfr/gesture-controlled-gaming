@@ -15,11 +15,14 @@ Control your favorite games using real-time hand tracking! This project uses **O
    - **Palm:** Gas (Right Arrow)  
    - **Fist:** Brake (Left Arrow)  
    - **Index Finger / No Hand:** Neutral (Coasting)
+  
+     ![Gesture](assests/gesture-hill_cr.PNG)
 
 3. **`altos_adventure.py`** - Uses temporal (time-based) logic for complex moves.  
    - **Short Pinch:** Jump / Single Click.  
    - **Long Pinch:** Backflip / Long Press.
-
+  
+   ![Gesture](assests/gesture-altos-adv.PNG)
 ---
 
 
